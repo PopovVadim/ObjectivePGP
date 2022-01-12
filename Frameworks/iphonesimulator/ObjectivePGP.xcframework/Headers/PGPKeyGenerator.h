@@ -20,6 +20,7 @@ NS_SWIFT_NAME(KeyGenerator) @interface PGPKeyGenerator : NSObject
 @property (nonatomic) PGPHashAlgorithm hashAlgorithm;
 @property (nonatomic) UInt8 version;
 @property (nonatomic) NSDate *createDate;
+@property (nonatomic) NSNumber *expirationTime;
 
 - (PGPKey *)generateFor:(NSString *)userID passphrase:(nullable NSString *)passphrase;
 

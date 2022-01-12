@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/PGPKeyGenerator.h</key>
 		<data>
-		5BbCiitR5LR5rp97NAKqLMDS7S8=
+		BV8kqBMvbxLJo/cMZxaxn/QC4Qc=
 		</data>
 		<key>Headers/PGPKeyID.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/JLAvmGVBahp19Zh1ePTzQQF264=
+		EYu4Fj6WZLwNUbQFt9zJrztaN5o=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -393,11 +393,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5BbCiitR5LR5rp97NAKqLMDS7S8=
+			BV8kqBMvbxLJo/cMZxaxn/QC4Qc=
 			</data>
 			<key>hash2</key>
 			<data>
-			D/rjZ9NiJYO6qJS/h5rFCcq/j5CvmLU5SDYzB6mVnps=
+			Li9zfFeftEv+J7k4R0SyHBqXUECuOU74I6EA8t7cOBQ=
 			</data>
 		</dict>
 		<key>Headers/PGPKeyID.h</key>
